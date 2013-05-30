@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Yolo Bro"
+date:   2013-05-30 22:20:03
+categories: jekyll update
+---
+true dat!
+[jekyll-gh]: https://github.com/mojombo/jekyll
+[jekyll]:    http://jekyllrb.com
